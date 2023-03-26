@@ -9,22 +9,15 @@
     outline: 1px dotted black;
 } */
 
-.page-container {
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-  width: 100vw;
-  height: 100vh;
   
-  }
 
 /* Doodle Stage */
 #stage {
   background-color: transparent;
   position: relative;
-  
-  height: 300px;
-  width: 600px;
+  width: auto;
+  max-height: 300px;
+  max-width: 600px;
 }
 
 #stars {
