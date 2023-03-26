@@ -79,7 +79,7 @@ canvas {
 }
 
 .google {
-  position: absolute;
+  padding: 0 20px;
 
   z-index: 0.2;
 }
