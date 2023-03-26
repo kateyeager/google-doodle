@@ -9,6 +9,15 @@
     outline: 1px dotted black;
 } */
 
+.page-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  
+  }
+
 /* Doodle Stage */
 #stage {
   background-color: transparent;
